@@ -27,5 +27,10 @@ public class HelloController {
         return "success";
     }
 
+//    首页
+//    @RequestMapping({"/", "/login.html"})
+//    public String index(){
+//        return "login";
+//    }
 
 }
